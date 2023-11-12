@@ -1,0 +1,2 @@
+export LDAP_USER='domain\username'
+export LDAP_PASSWORD='password'
