@@ -6,7 +6,7 @@ Working with Microsoft Active Directory users and groups via Python
 
 Clone the repo
 
-    git clone https://gitlab.com/deafmice/pythonactivedirectory.git
+    git clone https://github.com/ephergent/pythonactivedirectory.git
 
 Setup Virtualenv
 
